@@ -8,11 +8,11 @@
  #include <stdlib.h>
  #include <stdio.h>
  
- int mian(int argc, char **argv) {
+ int main(int argc, char **argv) {
      
-     printf("Trentyn Beekman\n");
+     printf("Trentyn Beekman!\n");
+     printf("Computer Engineering\n");
      
      return 0;
-     
      
  }
